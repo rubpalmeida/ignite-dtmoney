@@ -92,6 +92,8 @@ export const GlobalStyles = createGlobalStyle`
         border: 0;
         background: transparent;
 
+        display: flex;
+
         transition: filter 0.2s;
 
         &:hover {
